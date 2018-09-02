@@ -97,7 +97,7 @@ This course discusses principles and practical aspects of software development.
 ## References:
 - <a href="https://www.amazon.com/Beginning-Software-Engineering-Rod-Stephens/dp/1118969146"> Rod Stephens, Beginning Software Engineering, Wrox, 2015.</a>
 - System Development guidelines from OGCIO - <http://www.ogcio.gov.hk/en/infrastructure/methodology/system_development/>
-- Roger Pressman, Bruce Maxim, Software Engineering: A Practitioners Approach (8th Edition), McGraw Hill, 2014.
+- <a href="https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126">Roger Pressman, Bruce Maxim, Software Engineering: A Practitioners Approach (8th Edition), McGraw Hill, 2014.</a>
 - Ian Sommerville, Software Engineering (10th Edition), Addison-Wesley, 2015.
 - Jason. Appcelerator Titanium Smartphone App Development Cookbook - Second Edition. Packt Publishing, 2015.
 - Radford, Stephen. Learning web development with Bootstrap and AngularJS: build your own web app with Bootstrap and AngularJS, utilizing the latest web technologies. Packt Publishing, 2015.
