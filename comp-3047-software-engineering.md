@@ -98,9 +98,8 @@ This course discusses principles and practical aspects of software development.
 - <a href="https://www.amazon.com/Beginning-Software-Engineering-Rod-Stephens/dp/1118969146"> Rod Stephens, Beginning Software Engineering, Wrox, 2015.</a>
 - System Development guidelines from OGCIO - <http://www.ogcio.gov.hk/en/infrastructure/methodology/system_development/>
 - <a href="https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126">Roger Pressman, Bruce Maxim, Software Engineering: A Practitioners Approach (8th Edition), McGraw Hill, 2014.</a>
-- Ian Sommerville, Software Engineering (10th Edition), Addison-Wesley, 2015.
-- Jason. Appcelerator Titanium Smartphone App Development Cookbook - Second Edition. Packt Publishing, 2015.
-- Radford, Stephen. Learning web development with Bootstrap and AngularJS: build your own web app with Bootstrap and AngularJS, utilizing the latest web technologies. Packt Publishing, 2015.
+- <a href="https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038">Ian Sommerville, Software Engineering (10th Edition), Addison-Wesley, 2015.</a>
+- <a href="https://www.amazon.com/Learning-Web-Development-Bootstrap-Angular/dp/1783287551">Radford, Stephen. Learning web development with Bootstrap and AngularJS: build your own web app with Bootstrap and AngularJS, utilizing the latest web technologies. Packt Publishing, 2015.</a>
 - Shahid, Shaikh. Sails.js essentials: get up to speed with Sails.js development with this fast-paced tutorial. Packt Publishing, 2016.
 - Wilken, Jeremy, and Adam Bradley. Ionic in action: hybrid mobile apps with Ionic and AngularJS. Manning Publications, 2016.
 - Jensen, Paul B. Cross-platform Desktop Applications with Node, Electron, and Nw.js. Manning Pubns Co, 2016.
